@@ -7,8 +7,6 @@ services:
     volumes:
       - /data-disk1/jenkins-log:/var/log/jenkins
       - /data-disk1/jenkins-home:/var/jenkins_home
-      - jenkins-log:/var/log/jenkins
-      - jenkins-data:/var/jenkins_home
     networks:
       - jenkins-net
   nginx:
