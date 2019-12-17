@@ -1,0 +1,13 @@
+clang-scanbuild-plugin
+docker-plugin
+jclouds-jenkins
+puppet-enterprise-pipeline
+
+
+
+
+ome plugins failed to download!
+Not downloaded: ansible
+ansible:1.0
+seleniumhtmlreport:1.0
+description-setter:1.10

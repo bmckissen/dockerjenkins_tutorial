@@ -17,12 +17,14 @@ ARG uid=1000
 ARG gid=1000
 ARG http_port=8080
 ARG agent_port=50000
-ARG JENKINS_VERSION=2.190.3
+# ARG JENKINS_VERSION=2.176.2
+ARG JENKINS_VERSION=2.197
 ARG TINI_VERSION=v0.17.0
 
 # jenkins.war checksum, download will be validated using it
-ARG JENKINS_SHA=79c2042b30ad71dc9cf17a5877f64eaed405fa03e24e002ca60f8db73b7ad490
-
+# ARG JENKINS_SHA=33a6c3161cf8de9c8729fd83914d781319fd1569acf487c7b1121681dba190a5 # version 2.176.2 hash
+# version 2.197 below
+ARG JENKINS_SHA=a9a5fe755260102bb2087a8f320e3931f607923a4471087a2faad0c5a433e8b6
 # Can be used to customize where jenkins.war get downloaded from
 ARG JENKINS_URL=https://repo.jenkins-ci.org/public/org/jenkins-ci/main/jenkins-war/${JENKINS_VERSION}/jenkins-war-${JENKINS_VERSION}.war
 
@@ -85,7 +87,8 @@ RUN chmod +x /usr/share/jenkins/ref/init.groovy.d/tcp-slave-agent-port.groovy \
 
 # Install default plugins
 COPY plugins.txt /tmp/plugins.txt
-RUN /usr/local/bin/install-plugins.sh < /tmp/plugins.txt
+# RUN /usr/local/bin/install-plugins.sh < /tmp/plugins.txt
+RUN xargs /usr/local/bin/install-plugins.sh < /tmp/plugins.txt
 
 # Switch to the jenkins user
 USER ${user}

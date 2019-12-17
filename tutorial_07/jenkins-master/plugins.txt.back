@@ -1,0 +1,192 @@
+Jenkins Release Plugin version 2.10.2
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.3 or later.
+GitHub Branch Source Plugin version 2.5.8
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.19 or later.
+Slack Notification Plugin version 2.34
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.20 or later.
+Email Extension Plugin version 2.68
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.19 or later.
+CMake plugin version 2.6.2
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.10 or later.
+Pipeline: SCM Step version 2.9
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.9 or later.
+Pipeline: Model API version 1.3.9
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.20 or later.
+Token Macro Plugin version 2.8
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.14 or later.
+Pipeline: AWS Steps version 1.38
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.14 or later.
+Credentials Binding Plugin version 1.20
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.20 or later.
+Docker plugin version 1.1.8
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.14 or later.
+Pipeline: API version 2.37
+Pipeline: Step API version 2.2 is older than required. To fix, install version 2.16 or later.
+Downstream dependency errors:
+
+
+
+
+
+These plugins failed to load because of one or more of the errors above. Fix those and these plugins will load again.
+
+GitHub Pipeline for Blue Ocean version 1.19.0
+Pipeline implementation for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Flexible Publish Plugin version 0.15.2
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
+Pipeline: Milestone Step version 1.3.1
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Bitbucket Pullrequest Builder Plugin version 1.4.30
+Jenkins Git plugin version 3.12.1 failed to load. Fix this plugin first.
+Release Plugin version 2.10.2
+Maven Integration plugin version 3.4 failed to load. Fix this plugin first.
+GitHub Branch Source Plugin version 2.5.8
+GitHub plugin version 1.29.5 failed to load. Fix this plugin first.
+Pipeline implementation for Blue Ocean version 1.19.0
+Pipeline SCM API for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Pipeline: Multibranch version 2.21
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Docker Pipeline version 1.21
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Any Build Step Plugin version 0.1
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
+Bitbucket Approve Plugin version 1.0.3
+Jenkins Git plugin version 3.12.1 failed to load. Fix this plugin first.
+Maven Integration plugin version 3.4
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+Pipeline: Stage Tags Metadata version 1.3.9
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Slack Notification Plugin version 2.34
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+JIRA Pipeline Steps version 1.5.1
+Pipeline version 2.6 failed to load. Fix this plugin first.
+Bitbucket Build Status Notifier Plugin version 1.4.1
+Pipeline: Job version 2.35 failed to load. Fix this plugin first.
+Pipeline: Stage Step version 2.3
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Stash Notifier version 1.2
+Jenkins Git plugin version 3.12.1 failed to load. Fix this plugin first.
+JIRA plugin version 3.0.10
+Pipeline: Job version 2.35 failed to load. Fix this plugin first.
+Pipeline: Declarative Extension Points API version 1.3.9
+Pipeline: Groovy version 2.74 failed to load. Fix this plugin first.
+Email Extension Plugin version 2.68
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+GitHub plugin version 1.29.5
+Jenkins Git plugin version 3.12.1 failed to load. Fix this plugin first.
+Parameterized Trigger plugin version 2.35.2
+Conditional BuildStep version 1.3.6 failed to load. Fix this plugin first.
+CloudBees AWS Credentials Plugin version 1.28
+Credentials Binding Plugin version 1.20 failed to load. Fix this plugin first.
+Pipeline: Shared Groovy Libraries version 2.15
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline: Supporting APIs version 3.3
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+JIRA Integration for Blue Ocean version 1.19.0
+Jenkins JIRA plugin version 3.0.10 failed to load. Fix this plugin first.
+xUnit plugin version 2.3.6
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+Pipeline: REST API Plugin version 2.12
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Conditional BuildStep version 1.3.6
+Maven Integration plugin version 3.4 failed to load. Fix this plugin first.
+MSTest plugin version 1.0.0
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+REST Implementation for Blue Ocean version 1.19.0
+Pipeline: Groovy version 2.74 failed to load. Fix this plugin first.
+Events API for Blue Ocean version 1.19.0
+Pipeline implementation for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+NUnit plugin version 0.25
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+Build Pipeline Plugin version 1.5.8
+Jenkins Parameterized Trigger plugin version 2.35.2 failed to load. Fix this plugin first.
+Multijob plugin version 1.32
+Maven Integration plugin version 3.4 failed to load. Fix this plugin first.
+Run Condition Plugin version 1.2
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
+Pipeline: Input Step version 2.11
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Lockable Resources plugin version 2.6
+Pipeline: Supporting APIs version 3.3 failed to load. Fix this plugin first.
+Artifact Deployer Plug-in version 1.2
+Matrix Project Plugin version 1.14 failed to load. Fix this plugin first.
+Pipeline Utility Steps version 2.3.1
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline: AWS Steps version 1.38
+CloudBees AWS Credentials Plugin version 1.28 failed to load. Fix this plugin first.
+Favorite version 2.3.2
+Matrix Project Plugin version 1.14 failed to load. Fix this plugin first.
+Artifactory Plugin version 3.4.1
+Maven Integration plugin version 3.4 failed to load. Fix this plugin first.
+Git Pipeline for Blue Ocean version 1.19.0
+Pipeline implementation for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Pipeline version 2.6
+Lockable Resources plugin version 2.6 failed to load. Fix this plugin first.
+Amazon EC2 Container Service plugin version 1.16
+CloudBees AWS Credentials Plugin version 1.28 failed to load. Fix this plugin first.
+Pipeline: Stage View Plugin version 2.12
+Pipeline: REST API Plugin version 2.12 failed to load. Fix this plugin first.
+Pipeline: Build Step version 2.9
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline: Declarative version 1.3.9
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline SCM API for Blue Ocean version 1.19.0
+Pipeline: Multibranch version 2.21 failed to load. Fix this plugin first.
+Config File Provider Plugin version 3.6.2
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
+NodeJS Plugin version 1.3.4
+Config File Provider Plugin version 3.6.2 failed to load. Fix this plugin first.
+Matrix Project Plugin version 1.14
+JUnit Plugin version 1.28 failed to load. Fix this plugin first.
+Sauce OnDemand plugin version 1.186
+Pipeline: Basic Steps version 2.18 failed to load. Fix this plugin first.
+Docker Commons Plugin version 1.15
+Credentials Binding Plugin version 1.20 failed to load. Fix this plugin first.
+JClouds plugin version 2.15
+Config File Provider Plugin version 3.6.2 failed to load. Fix this plugin first.
+Git plugin version 3.12.1
+Pipeline: SCM Step version 2.9 failed to load. Fix this plugin first.
+Pipeline: Nodes and Processes version 2.34
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Blue Ocean Pipeline Editor version 1.19.0
+Pipeline implementation for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Autofavorite for Blue Ocean version 1.2.4
+Pipeline: Job version 2.35 failed to load. Fix this plugin first.
+Pipeline: Job version 2.35
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline: Basic Steps version 2.18
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Docker plugin version 1.1.8
+Docker Commons Plugin version 1.15 failed to load. Fix this plugin first.
+JUnit Plugin version 1.28
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Pipeline Graph Analysis Plugin version 1.1
+Pipeline: Stage Step version 2.3 failed to load. Fix this plugin first.
+Bitbucket Pipeline for Blue Ocean version 1.19.0
+Pipeline implementation for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Pipeline: Groovy version 2.74
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+HTML Publisher plugin version 1.21
+Matrix Project Plugin version 1.14 failed to load. Fix this plugin first.
+Blue Ocean version 1.19.0
+Bitbucket Pipeline for Blue Ocean version 1.19.0 failed to load. Fix this plugin first.
+Ivy Plugin version 2.1
+Config File Provider Plugin version 3.6.2 failed to load. Fix this plugin first.
+Gradle Plugin version 1.34
+Pipeline: API version 2.37 failed to load. Fix this plugin first.
+Environment Injector Plugin version 2.2.1
+Matrix Project Plugin version 1.14 failed to load. Fix this plugin first.
+Bitbucket Branch Source Plugin version 2.5.0
+Jenkins Git plugin version 3.12.1 failed to load. Fix this plugin first.
+Subversion Plug-in version 2.12.2
+Pipeline: SCM Step version 2.9 failed to load. Fix this plugin first.
+Display URL for Blue Ocean version 2.3.0
+Pipeline: Job version 2.35 failed to load. Fix this plugin first.
+Office 365 Connector version 4.12.0
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
+Mercurial plugin version 2.8
+Matrix Project Plugin version 1.14 failed to load. Fix this plugin first.
+Pipeline: Declarative Agent API version 1.1.1
+Pipeline: Declarative Extension Points API version 1.3.9 failed to load. Fix this plugin first.
+Xcode integration version 2.0.12
+Token Macro Plugin version 2.8 failed to load. Fix this plugin first.
